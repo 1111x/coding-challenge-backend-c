@@ -59,8 +59,8 @@ I have made it easier to test the API by embedding coordinates for 5 North Ameri
 
 ## Demo
 You can try the app now on Heroku.
-- [API Endpoint](http://mighty-wildwood-7373.herokuapp.com/suggestions?q=Montreal)
-- [API Endpoint Test Page](http://mighty-wildwood-7373.herokuapp.com/apitest)
+- [API Endpoint](http://citysearchapi.herokuapp.com/suggestions?q=Montreal)
+- [API Endpoint Test Page](http://citysearchapi.herokuapp.com/apitest)
 
 ## Debugging
 Debugging is disabled by default. To enable it set the environment variable DEBUG_MODE to true.
